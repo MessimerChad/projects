@@ -1,0 +1,10 @@
+﻿  Car.cpp
+  ElectricCar.cpp
+  Engine.cpp
+  GasCar.cpp
+  SUV.cpp
+  Source.cpp
+C:\Users\cmessimer.CBAS\source\repos\CIS247C - Course Project\CIS247C - Course Project\Source.cpp(19,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Vehicle.cpp
+  Generating Code...
+  CIS247C - Course Project.vcxproj -> C:\Users\cmessimer.CBAS\source\repos\CIS247C - Course Project\Debug\CIS247C - Course Project.exe
